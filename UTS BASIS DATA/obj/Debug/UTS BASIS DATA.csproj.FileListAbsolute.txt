@@ -1,0 +1,15 @@
+C:\Users\Aldi Saputra\source\repos\UTS BASIS DATA\UTS BASIS DATA\obj\Debug\UTS_BASIS_DATA.formMenuUtama.resources
+C:\Users\Aldi Saputra\source\repos\UTS BASIS DATA\UTS BASIS DATA\obj\Debug\UTS_BASIS_DATA.formLogin.resources
+C:\Users\Aldi Saputra\source\repos\UTS BASIS DATA\UTS BASIS DATA\obj\Debug\UTS_BASIS_DATA.Properties.Resources.resources
+C:\Users\Aldi Saputra\source\repos\UTS BASIS DATA\UTS BASIS DATA\obj\Debug\UTS BASIS DATA.csproj.GenerateResource.cache
+C:\Users\Aldi Saputra\source\repos\UTS BASIS DATA\UTS BASIS DATA\obj\Debug\UTS BASIS DATA.csproj.CoreCompileInputs.cache
+C:\Users\Aldi Saputra\source\repos\UTS BASIS DATA\UTS BASIS DATA\bin\Debug\UTS BASIS DATA.exe.config
+C:\Users\Aldi Saputra\source\repos\UTS BASIS DATA\UTS BASIS DATA\bin\Debug\UTS BASIS DATA.exe
+C:\Users\Aldi Saputra\source\repos\UTS BASIS DATA\UTS BASIS DATA\bin\Debug\UTS BASIS DATA.pdb
+C:\Users\Aldi Saputra\source\repos\UTS BASIS DATA\UTS BASIS DATA\obj\Debug\UTS BASIS DATA.exe
+C:\Users\Aldi Saputra\source\repos\UTS BASIS DATA\UTS BASIS DATA\obj\Debug\UTS BASIS DATA.pdb
+C:\Users\Aldi Saputra\source\repos\UTS BASIS DATA\UTS BASIS DATA\obj\Debug\UTS BASIS DATA.csproj.AssemblyReference.cache
+C:\Users\Aldi Saputra\source\repos\UTS BASIS DATA\UTS BASIS DATA\obj\Debug\UTS_BASIS_DATA.formDivisi.resources
+C:\Users\Aldi Saputra\source\repos\UTS BASIS DATA\UTS BASIS DATA\obj\Debug\UTS_BASIS_DATA.formTambahUsers.resources
+C:\Users\Aldi Saputra\source\repos\UTS BASIS DATA\UTS BASIS DATA\obj\Debug\UTS_BASIS_DATA.formUser.resources
+C:\Users\Aldi Saputra\source\repos\UTS BASIS DATA\UTS BASIS DATA\obj\Debug\UTS_BASIS_DATA.formEditUser.resources
